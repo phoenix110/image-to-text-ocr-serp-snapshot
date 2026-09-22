@@ -1,0 +1,22 @@
+# Image-to-Text OCR SERP Snapshot
+
+## Method
+
+This is a snapshot taken on 2026-09-22 from the first ten English-language, US Google organic results for the query `image to text converter`. Ads, video blocks, and related-question modules were skipped. Each result page was opened and read. The ninth result was an app-store listing and is retained as a separate classification rather than merged into the tool comparison.
+
+| # | Tool | Input | Output | Quality or accuracy | Login | Batch | Limits |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | ImageToText.info | Upload, drag and drop, paste image or URL; JPG PNG GIF JFIF HEIC PDF | Plain or formatted text; copy or download text file | Page claims 100% accuracy; multilingual; claims handwritten-text reading | No registration claimed; history requires Pro | Supported | Page states up to 1000 images per submission |
+| 2 | ImageToText.io | Upload, drag and drop, paste, or URL; JPG PNG JPEG BMP GIF TIFF WEBP | Editable text; copy or download .txt | Page claims support for low-resolution images, handwriting, mathematical expressions, and multiple languages | No registration claimed; freemium | Not stated | Not stated |
+| 3 | ImageToText.cc | Upload, paste, or drag and drop; JPEG PNG BMP and others | Plain or preserved-format text; copy; download TXT or Word | Page claims blurred-image, handwriting, and mathematical-expression reading | Login/Register present; free-quota rules not stated | Supported | Upload panel states 5 images per submission and 7 MB per image; body separately claims up to 50 images |
+| 4 | PictureToText.org | Select multiple images, drag and drop, paste, or URL; JPG PNG WEBP GIF BMP HEIC PDF TIFF | Editable text; copy or download | Page claims accurate recognition for low-resolution images; multiple languages and mathematical expressions | Free tier is limited; no registration or subscription claimed | Supported; Premium supports multiple images | Premium up to 100 images; free-tier quantity not stated |
+| 5 | Transkribus | Drag and drop or upload photos, scans, or screenshots; PNG JPG | Editable text; copy; platform can edit, search, and export TXT DOCX PDF XML | 100+ languages; supports handwriting, print, and historical handwriting | Demo needs no registration; registered accounts receive 50 credits per month | Platform can upload whole folders with hundreds of images | Demo PNG/JPG maximum 10 MB; account has 50 credits per month |
+| 6 | Klippa / Doxis | Upload image or PDF | Copy or download text file | Page claims 99% accuracy; 150+ languages; 20+ formats | Only Login and demo entry are shown; whether the free tool requires login is not stated | Supports multiple files and high file volume | Not stated |
+| 7 | JpgToText.info | Drag and drop, browse, paste, or URL; JPG PNG JPEG GIF JFIF | Editable text; copy or download | Page claims latest OCR, low-resolution-image reading, mathematical expressions, and multiple languages | Free; no registration | Batch supported | 5 images per submission; 15 MB per image |
+| 8 | ImageToText.me | Drag and drop, paste, upload, or URL; PNG JPG WEBP GIF JPEG PDF | Editable and searchable text; view, copy, or download TXT DOCX PDF | Page claims handling of slightly blurred and low-resolution images and mathematical formulas | Free users need no registration; freemium | Supported | Free tier: 5 images per submission with no session-count limit; paid tier: 150 images per submission |
+| 9 | Android app-store listing | Android camera or gallery import; crop, rotate, and flip | TXT PDF Docs; copy, share, save, or translate | Page claims printed and handwritten text recognition; supports multi-image batch | Android app installation; all languages require Premium | Batch supported; quantity not stated | Not stated |
+| 10 | ImgToText.net | Upload or Dropbox link; PNG JPG JPEG GIF JFIF PDF WEBP BMP HEIF HEIC | Editable digital text; copy or download text formats | Page claims support for blurred images, handwriting, mathematical formulas, and translation in 100+ languages | Freemium; Premium optional | Batch supported; quantity not stated | Not stated |
+
+## Limits
+
+This snapshot covers ten results, not every page that may rank for the query. It records page claims and visible product information only; it does not run accuracy tests. Statements such as accuracy percentages or language counts are the pages' own claims, not independent measurements. Pages and search rankings can change after the collection date.
